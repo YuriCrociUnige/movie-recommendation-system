@@ -49,7 +49,7 @@ The systematic comparison reveals distinct strengths and trade-offs across recom
 ## Repository Structure
 
 ```
-movie-recommendation-system/
+Hybrid_Recommendation_System/
 ├── data/
 │   ├── processed/               # Cleaned and preprocessed datasets
 │   └── raw/                     # # Original MovieLens 20M data (not included, download separately at the provided link)
