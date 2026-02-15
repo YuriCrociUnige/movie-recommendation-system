@@ -1,4 +1,4 @@
-# Hybrid Movie Recommendation System
+# Hybrid Recommendation System
 
 Exploration and evaluation of recommendation algorithms on the [MovieLens 20M dataset](https://grouplens.org/datasets/movielens/20m/) with the design and PyTorch implementation of a hybrid neural network that improves predictions for both popular and cold-start items.
 
@@ -49,7 +49,7 @@ The systematic comparison reveals distinct strengths and trade-offs across recom
 ## Repository Structure
 
 ```
-movie-recommendation-system/
+Hybrid_Recommendation_System/
 ├── data/
 │   ├── processed/               # Cleaned and preprocessed datasets
 │   └── raw/                     # # Original MovieLens 20M data (not included, download separately at the provided link)
